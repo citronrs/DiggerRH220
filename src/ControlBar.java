@@ -12,7 +12,7 @@ public class ControlBar extends JPanel{
 	public ControlBar(){
 		controlBar = new JPanel();
 		setSize(100, 500);
-		
+		//butthole
 	}
 
 }
